@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ML.Net.Iris_Flower_Identification", "ML.Net.Iris_Flower_Identification\ML.Net.Iris_Flower_Identification.csproj", "{40A74898-B1A9-4993-B7A3-1E06EAC91F2B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ML.NetStockPrediction", "ML.NetStockPrediction\ML.NetStockPrediction\ML.NetStockPrediction.csproj", "{E32A3507-2F53-4A43-9E1B-5E8910F0079F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40A74898-B1A9-4993-B7A3-1E06EAC91F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A74898-B1A9-4993-B7A3-1E06EAC91F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A74898-B1A9-4993-B7A3-1E06EAC91F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A74898-B1A9-4993-B7A3-1E06EAC91F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E32A3507-2F53-4A43-9E1B-5E8910F0079F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E32A3507-2F53-4A43-9E1B-5E8910F0079F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E32A3507-2F53-4A43-9E1B-5E8910F0079F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E32A3507-2F53-4A43-9E1B-5E8910F0079F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2041CFC9-7CF8-4C60-A411-06FE77A9213A}
+	EndGlobalSection
+EndGlobal
